@@ -7,28 +7,25 @@ using namespace std;
 class Solution{
 public:
     int *findTwoElement(int *arr, int n) {
-       int *ans=new int[2];// code here
-      sort(arr,arr+n);
-      for(int i=0;i<n;i++)
-      {
-          if(arr[i]==arr[i+1])
-          {
-              ans[0]=arr[i];
-             
-          }
-      }
-      
-      int sum1=0;
-      int sum2=0;
-      for(int i=1;i<=n;i++)
-      {
-          sum1+=i;
-          sum2+=arr[i-1];
-      }
-      
-      int x=sum2-sum1;
-      ans[1]=abs(ans[0]-x);
-      return ans;
+        int *ans= new int[2];
+       sort(arr, arr+n);
+       for(int i = 0; i<n-1; i++){
+           if(arr[i+1]-arr[i] == 0){
+               ans[0]=arr[i];
+           }
+           else if(arr[i+1] - arr[i] == 2){
+               ans[1]=arr[i]+1;
+           }
+       }
+       if(arr[n-1] == n && ans[1]==0){
+           ans[1]=n-1;
+       }else if(arr[n-1] == n-1 && ans[1]==0){
+           ans[1]=n;
+       }
+       if(arr[0] != 1){
+           ans[1]=1;
+       }
+       return ans;
     }
 };
 
