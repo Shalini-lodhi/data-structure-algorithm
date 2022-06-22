@@ -6,47 +6,39 @@ using namespace std;
 class Solution {
   public:
     // Function to detect cycle in a directed graph.
-    bool dfs(int node,unordered_map<int,bool>&visited,
-     unordered_map<int,bool>&dfsvisited,vector<int> adj[]){
-         
-         visited[node]=true;
-         dfsvisited[node]=true;
-         
-         for(auto neighbour : adj[node]){
-             if(!visited[neighbour]){
-                 bool foundcycle=dfs(neighbour,visited,dfsvisited,adj);
-                     if(foundcycle)
-                         return true;
-             }
-             else if(dfsvisited[neighbour]){
-                 return true;
-             }
-         }
-         
-         dfsvisited[node]=false;
-         return false;
-         
-     }  
- 
- 
-   // Function to detect cycle in a directed graph.
-   bool isCyclic(int V, vector<int> adj[]) {
-       
-       unordered_map<int,bool>visited;
-       unordered_map<int,bool>dfsvisited;
-       
-       for(int i=0;i<V;i++){
-           if(!visited[i]){
-               bool ans=dfs(i,visited,dfsvisited,adj);
-               if(ans){
-                   return true;
-               }
-           }
-       }
-       
-       return false;
-      
-   }
+    bool isCyclic(int V, vector<int> adj[]) {
+        //find all inDegree of vertices
+    vector<int> inDegree(V);
+    for(int i=0;i<V;i++){
+        for(auto j: adj[i]){
+            inDegree[j]++;
+        }
+    }
+    //pushinf all inDegree 0 to queue
+    queue<int> q;
+    for(int i=0;i<V;i++){
+        if(inDegree[i]==0) q.push(i);
+    }
+
+    //do bfs    
+    int cnt=0;
+
+    while(!q.empty()){
+        int front = q.front();
+        q.pop();
+        
+        //increment cnt
+        cnt++;
+        
+        //neighbour inDegree update
+        for(auto neighbour: adj[front]){
+            inDegree[neighbour]--;
+            if(inDegree[neighbour]==0) q.push(neighbour);
+        }
+    }
+		if(cnt == V) return false;
+    return true;
+    }
 };
 
 // { Driver Code Starts.
