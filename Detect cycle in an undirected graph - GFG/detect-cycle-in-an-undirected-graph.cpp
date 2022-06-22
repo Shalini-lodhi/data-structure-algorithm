@@ -29,65 +29,36 @@ class Solution {
     //     }
     //     return false;
     // }
-    // bool isCycle(int V, vector<int> adj[]) {
-    //     unordered_map<int, bool> visited;
-    //     unordered_map<int, int> parent;
-    //     for(int i=0;i<V;i++){
-    //         if(!visited[i]){
-    //             bool ans=isCycleDetected(V, adj, visited, parent);
-    //             if(ans==1){
-    //                 return true;
-    //             }
-    //         }
-    //     }
-    //     return false;
-    // }
-      bool isCycleBFS(vector<int>adj[],unordered_map<int,bool>&visited,
-                   int node,unordered_map<int,int>&parent){
-       
-       queue<int>q;
-       q.push(node);
-       visited[node]=true;
-       parent[node]=-1;
-       
-       while(!q.empty()){
-           int t=q.front();
-           q.pop();
-           for(auto i : adj[t]){
-               if(visited[i]==true && i != parent[t]){
-                   return true;
-               }
-               else if(!visited[i]){
-                   q.push(i);
-                   visited[i]=true;
-                   parent[i]=t;
-                   
-               }
-           }
-       }
-       
-       return false;
-                       
+    bool DFS(int src, int parent, vector<int> adj[], vector<bool> &visited) {
+        visited[src] = true;
+        
+        for(int &u : adj[src]) {
+            if(visited[u] == false) {
+                if(DFS(u, src, adj, visited))
+                    return true;
+            }
+            else if(u != parent)
+                return true;
+        }
+        
+        return false;
     }
- 
- 
- 
- 
-   // Function to detect cycle in an undirected graph.
-   bool isCycle(int V, vector<int> adj[]) {
-       
-       unordered_map<int,bool>visited;
-       unordered_map<int,int>parent;
-       for(int i=0;i<V;i++){
-           if(!visited[i]){
-               bool ans=isCycleBFS(adj,visited,i,parent);
-               if(ans==1){
-                   return true;
-               }
-           }
-       }
-       return false;
-   }
+    
+    bool checkDFS(vector<int> adj[], int V) {
+        vector<bool> visited(V, false);
+        
+        for(int i = 0; i < V; ++i) {
+            if(visited[i] == false) {
+                if(DFS(i, -1, adj, visited))
+                    return true;
+            }
+        }
+        
+        return false;
+    }
+    bool isCycle(int V, vector<int> adj[]) {
+        return checkDFS(adj, V); 
+    }
 };
 
 // { Driver Code Starts.
