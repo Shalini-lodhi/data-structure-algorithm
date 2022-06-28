@@ -6,10 +6,8 @@ using namespace std;
 class Solution {
 public:
     void solve(vector<vector<int>>& image, int i, int j, int n, int m, int color, int newColor) {
-       if(i>=0 && i<n && j>=0 && j<m && image[i][j] == color) {} 
-       else {
-           return;
-       }
+       if(i<0 || i>=n || j<0 || j>=m || image[i][j] != color) return;
+       
        image[i][j] = newColor;
        solve(image, i+1, j, n, m, color, newColor);
        solve(image, i-1, j, n, m, color, newColor);
