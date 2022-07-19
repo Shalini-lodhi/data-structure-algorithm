@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
         
-        //base case: when list is empty
+        //base case
         ListNode* kCount = head;
         for(int i=0; i< k; i++){
             if(kCount == NULL) return head;
@@ -34,10 +34,7 @@ public:
         }
         
         //step2: recursion call
-        if(next != NULL){
-            head -> next = reverseKGroup(next, k);
-        }
-        // head -> next = reverseKGroup(next, k);
+        head -> next = reverseKGroup(next, k);
         
         //step3: return head
         return prev;
