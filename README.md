@@ -1,7 +1,5 @@
-# Leet-code-ques
-
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# DSA Topics
 ## Array
 |  |
 | ------- |
