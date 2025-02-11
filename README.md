@@ -1,12 +1,14 @@
 <!---LeetCode Topics Start-->
-# DSA Topics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
