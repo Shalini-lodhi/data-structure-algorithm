@@ -60,6 +60,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0207-course-schedule) |
@@ -76,4 +77,16 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0207-course-schedule) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
