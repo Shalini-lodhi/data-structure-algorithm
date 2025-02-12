@@ -24,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
 | [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 ## Divide and Conquer
@@ -37,6 +38,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 ## Matrix
@@ -46,5 +48,6 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
