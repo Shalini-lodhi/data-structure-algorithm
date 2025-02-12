@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0207-course-schedule) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
@@ -96,5 +98,6 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
