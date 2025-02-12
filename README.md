@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
+| [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,9 +37,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 ## Matrix
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
+## String
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
