@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
 | [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 ## Divide and Conquer
@@ -71,6 +73,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
 ## Graph
