@@ -11,6 +11,7 @@
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 ## Two Pointers
 |  |
@@ -50,12 +51,14 @@
 | [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0685-redundant-connection-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 ## String
 |  |
@@ -72,6 +75,7 @@
 | [0207-course-schedule](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0685-redundant-connection-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
@@ -79,6 +83,7 @@
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
 | [0685-redundant-connection-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
