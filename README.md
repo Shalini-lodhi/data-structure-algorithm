@@ -18,6 +18,7 @@
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
+| [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
+| [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
+| [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +102,7 @@
 | [0794-swim-in-rising-water](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
+| [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 ## Union Find
 |  |
 | ------- |
@@ -113,12 +117,14 @@
 | [0821-bricks-falling-when-hit](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0821-bricks-falling-when-hit) |
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
+| [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0207-course-schedule) |
 | [0685-redundant-connection-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0770-couples-holding-hands) |
+| [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 ## Topological Sort
 |  |
 | ------- |
