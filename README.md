@@ -42,6 +42,7 @@
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Union Find
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 | [0685-redundant-connection-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0770-couples-holding-hands) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
