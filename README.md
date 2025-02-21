@@ -20,6 +20,7 @@
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0989-largest-component-size-by-common-factor) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0989-largest-component-size-by-common-factor) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
 ## Graph
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0770-couples-holding-hands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0770-couples-holding-hands) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
