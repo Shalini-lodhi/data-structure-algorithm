@@ -21,6 +21,7 @@
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0989-largest-component-size-by-common-factor) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
+| [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
+| [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0821-bricks-falling-when-hit](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0821-bricks-falling-when-hit) |
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
+| [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 ## String
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 ## Union Find
 |  |
 | ------- |
@@ -129,6 +133,7 @@
 | [0989-largest-component-size-by-common-factor](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0989-largest-component-size-by-common-factor) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 ## Graph
 |  |
 | ------- |
