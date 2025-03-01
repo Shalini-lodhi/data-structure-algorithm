@@ -13,6 +13,7 @@
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
+| [0747-min-cost-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0794-swim-in-rising-water) |
 | [0821-bricks-falling-when-hit](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0821-bricks-falling-when-hit) |
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
