@@ -93,6 +93,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
