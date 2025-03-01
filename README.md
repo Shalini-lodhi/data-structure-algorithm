@@ -178,6 +178,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0070-climbing-stairs) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
 ## Number Theory
@@ -187,6 +188,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -195,5 +197,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
