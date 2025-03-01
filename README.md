@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
