@@ -16,6 +16,7 @@
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
@@ -101,6 +102,7 @@
 | [0091-decode-ways](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
+| [0474-ones-and-zeroes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
@@ -205,6 +207,7 @@
 | [0198-house-robber](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
