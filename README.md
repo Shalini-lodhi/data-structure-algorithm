@@ -28,6 +28,7 @@
 | [0821-bricks-falling-when-hit](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0821-bricks-falling-when-hit) |
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
+| [0909-stone-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0909-stone-game) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0989-largest-component-size-by-common-factor) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0343-integer-break) |
+| [0909-stone-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0909-stone-game) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
 ## Number Theory
@@ -219,6 +221,7 @@
 | [0494-target-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
 | [1130-last-stone-weight-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1130-last-stone-weight-ii) |
 ## Recursion
@@ -234,4 +237,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0494-target-sum) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
