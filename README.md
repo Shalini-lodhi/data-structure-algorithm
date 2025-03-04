@@ -195,6 +195,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0070-climbing-stairs) |
+| [0343-integer-break](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0343-integer-break) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
 ## Number Theory
@@ -211,6 +212,7 @@
 | [0198-house-robber](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0474-ones-and-zeroes) |
