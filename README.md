@@ -104,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0127-word-ladder) |
@@ -188,6 +189,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0044-wildcard-matching) |
 | [0770-couples-holding-hands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0770-couples-holding-hands) |
 ## Heap (Priority Queue)
 |  |
@@ -208,6 +210,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0072-edit-distance) |
@@ -229,6 +232,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0044-wildcard-matching) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
