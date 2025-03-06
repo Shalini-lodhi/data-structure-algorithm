@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -100,6 +101,7 @@
 | [0063-unique-paths-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0794-swim-in-rising-water) |
@@ -227,6 +229,7 @@
 | [0072-edit-distance](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0174-dungeon-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0322-coin-change) |
