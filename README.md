@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
@@ -220,6 +222,7 @@
 | [0053-maximum-subarray](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0091-decode-ways) |
