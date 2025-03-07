@@ -93,6 +93,7 @@
 | [0794-swim-in-rising-water](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 | [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
@@ -169,6 +170,7 @@
 | [0207-course-schedule](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0207-course-schedule) |
 | [0685-redundant-connection-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0770-couples-holding-hands) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
@@ -244,6 +246,7 @@
 | [0518-coin-change-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0909-stone-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
 | [1130-last-stone-weight-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1130-last-stone-weight-ii) |
@@ -269,4 +272,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
