@@ -12,47 +12,38 @@
  */
 class Solution {
 public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>> result;
-
-        // Base case: If the tree is empty
+    void bfs(TreeNode* root, vector<vector<int>>& output) {
         if (!root)
-            return result;
+            return;
 
         queue<TreeNode*> q;
         q.push(root);
-
-        bool leftToRight = true; // Flag to alternate the direction
+        bool leftToRight = true; // toggle
 
         while (!q.empty()) {
-            int levelSize = q.size(); // Number of nodes at the current level
-            vector<int> levelNodes;
+            int ls = q.size();
+            vector<int> level(ls);
 
-            // Process each node in the current level
-            for (int i = 0; i < levelSize; i++) {
-                TreeNode* node = q.front();
+            for (int l = 0; l < ls; ++l) {
+                TreeNode* n = q.front();
                 q.pop();
 
-                levelNodes.push_back(node->val);
+                // Insert at correct position based on direction
+                int index = leftToRight ? l : (ls - 1 - l);
+                level[index] = n->val;
 
-                // Add the children of the current node to the queue
-                if (node->left)
-                    q.push(node->left);
-                if (node->right)
-                    q.push(node->right);
+                if (n->left)
+                    q.push(n->left);
+                if (n->right)
+                    q.push(n->right);
             }
-
-            // If we are going right to left, reverse the levelNodes
-            if (!leftToRight) {
-                reverse(levelNodes.begin(), levelNodes.end());
-            }
-
-            result.push_back(levelNodes);
-
-            // Toggle the direction for the next level
             leftToRight = !leftToRight;
+            output.push_back(level);
         }
-
-        return result;
+    }
+    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        vector<vector<int>> output;
+        bfs(root, output);
+        return output;
     }
 };
