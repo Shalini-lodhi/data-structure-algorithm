@@ -138,6 +138,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0417-pacific-atlantic-water-flow) |
@@ -201,6 +202,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
@@ -216,6 +218,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Greedy
 |  |
@@ -304,4 +307,5 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
