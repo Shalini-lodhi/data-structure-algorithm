@@ -55,6 +55,7 @@
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
 | [0354-russian-doll-envelopes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0354-russian-doll-envelopes) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0989-largest-component-size-by-common-factor) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -155,6 +158,7 @@
 | [0871-keys-and-rooms](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0871-keys-and-rooms) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -206,6 +210,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -223,6 +228,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
