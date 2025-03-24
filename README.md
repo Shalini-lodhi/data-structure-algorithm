@@ -108,6 +108,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2121-find-if-path-exists-in-graph) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Matrix
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2121-find-if-path-exists-in-graph) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Union Find
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2121-find-if-path-exists-in-graph) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Topological Sort
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Search Tree
 |  |
 | ------- |
