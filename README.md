@@ -65,6 +65,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
 | [0433-minimum-genetic-mutation](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0433-minimum-genetic-mutation) |
+| [0652-find-duplicate-subtrees](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
@@ -159,6 +160,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0547-number-of-provinces) |
+| [0652-find-duplicate-subtrees](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0652-find-duplicate-subtrees) |
 | [0685-redundant-connection-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
@@ -228,6 +230,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0538-convert-bst-to-greater-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0652-find-duplicate-subtrees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -253,6 +256,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0538-convert-bst-to-greater-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0652-find-duplicate-subtrees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
