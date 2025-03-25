@@ -10,6 +10,7 @@
 | [0064-minimum-path-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0130-surrounded-regions) |
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -218,6 +221,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0513-find-bottom-left-tree-value) |
@@ -242,6 +246,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0513-find-bottom-left-tree-value) |
