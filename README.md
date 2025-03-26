@@ -41,6 +41,7 @@
 | [0989-largest-component-size-by-common-factor](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0989-largest-component-size-by-common-factor) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
 | [1130-last-stone-weight-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1130-last-stone-weight-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 ## Two Pointers
 |  |
@@ -242,6 +243,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0794-swim-in-rising-water](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0794-swim-in-rising-water) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Binary Tree
 |  |
 | ------- |
