@@ -145,6 +145,7 @@
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2317-count-collisions-on-a-road](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2317-count-collisions-on-a-road) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -348,4 +349,9 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
+| [2317-count-collisions-on-a-road](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2317-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2317-count-collisions-on-a-road](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2317-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
