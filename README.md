@@ -29,6 +29,7 @@
 | [0518-coin-change-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
+| [0735-asteroid-collision](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0794-swim-in-rising-water) |
@@ -349,9 +350,11 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0735-asteroid-collision) |
 | [2317-count-collisions-on-a-road](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2317-count-collisions-on-a-road) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0735-asteroid-collision) |
 | [2317-count-collisions-on-a-road](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2317-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
