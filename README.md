@@ -45,6 +45,7 @@
 | [1130-last-stone-weight-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1130-last-stone-weight-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Two Pointers
 |  |
 | ------- |
@@ -359,9 +360,14 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0735-asteroid-collision) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2317-count-collisions-on-a-road](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2317-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0883-car-fleet) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
