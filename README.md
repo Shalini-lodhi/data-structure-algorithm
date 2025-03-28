@@ -36,6 +36,7 @@
 | [0821-bricks-falling-when-hit](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0821-bricks-falling-when-hit) |
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
+| [0883-car-fleet](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0883-car-fleet) |
 | [0909-stone-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0909-stone-game) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
@@ -58,6 +59,7 @@
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
 | [0354-russian-doll-envelopes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0354-russian-doll-envelopes) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
+| [0883-car-fleet](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0883-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -351,10 +353,15 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0735-asteroid-collision) |
+| [0883-car-fleet](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0883-car-fleet) |
 | [2317-count-collisions-on-a-road](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2317-count-collisions-on-a-road) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0735-asteroid-collision) |
 | [2317-count-collisions-on-a-road](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2317-count-collisions-on-a-road) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0883-car-fleet](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
