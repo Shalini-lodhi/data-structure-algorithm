@@ -37,6 +37,7 @@
 | [0854-making-a-large-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0869-similar-string-groups) |
 | [0883-car-fleet](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0909-stone-game) |
 | [0945-snakes-and-ladders](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0960-minimize-malware-spread) |
@@ -248,6 +249,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0794-swim-in-rising-water](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0794-swim-in-rising-water) |
+| [0907-koko-eating-bananas](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Binary Tree
 |  |
