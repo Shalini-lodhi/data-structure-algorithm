@@ -48,6 +48,7 @@
 | [1380-number-of-closed-islands](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1380-number-of-closed-islands) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | [0907-koko-eating-bananas](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Binary Tree
 |  |
 | ------- |
