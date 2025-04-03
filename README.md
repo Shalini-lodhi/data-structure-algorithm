@@ -49,6 +49,7 @@
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2294-minimum-time-to-complete-trips) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2294-minimum-time-to-complete-trips) |
 ## Binary Tree
 |  |
 | ------- |
