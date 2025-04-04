@@ -125,6 +125,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Matrix
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Union Find
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Topological Sort
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 | [0909-stone-game](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1013-fibonacci-number) |
 | [1130-last-stone-weight-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1130-last-stone-weight-ii) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Recursion
 |  |
 | ------- |
