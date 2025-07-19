@@ -27,6 +27,7 @@
 | [0436-find-right-interval](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0695-max-area-of-island) |
@@ -59,6 +60,7 @@
 | [0027-remove-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0088-merge-sorted-array) |
+| [0475-heaters](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0475-heaters) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0169-majority-element](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0169-majority-element) |
 | [0354-russian-doll-envelopes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0475-heaters) |
 | [0721-accounts-merge](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0721-accounts-merge) |
 | [0883-car-fleet](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0883-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -261,6 +264,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0475-heaters) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0794-swim-in-rising-water](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0794-swim-in-rising-water) |
