@@ -25,6 +25,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0518-coin-change-ii) |
@@ -259,6 +260,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0354-russian-doll-envelopes](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0794-swim-in-rising-water](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0794-swim-in-rising-water) |
@@ -374,6 +376,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0883-car-fleet) |
 | [2317-count-collisions-on-a-road](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/2317-count-collisions-on-a-road) |
@@ -387,9 +390,14 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0456-132-pattern) |
 | [0883-car-fleet](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0883-car-fleet) |
 ## Brainteaser
 |  |
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Shalini-lodhi/data-structure-algorithm/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
